@@ -1,5 +1,3 @@
-import { useState } from 'react';
-import InfiniteScroll from 'react-infinite-scroll-component';
 import Contact from './Contact';
 function ContactList({ contacts, searchValue, setIsLoading }) {
   return (
