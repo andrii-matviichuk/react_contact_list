@@ -1,2 +1,3 @@
 # test-task-teacode
-Use `npm start` in the project directory to run the project locally.
+In the project directory use `npm install` to download all packages and dependencies \\
+and `npm start` to run the project locally.
