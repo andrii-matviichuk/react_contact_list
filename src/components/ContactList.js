@@ -1,5 +1,5 @@
 import Contact from './Contact';
-function ContactList({ contacts, searchValue, setIsLoading }) {
+function ContactList({ contacts, searchValue }) {
   return (
     <div className="contactlist_container">
       {contacts.map((contact) => (
